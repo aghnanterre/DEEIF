@@ -9,3 +9,4 @@ Projet DEEIF : dictionnaire des expressions d'intensité
   
   Il s'agirait d'afficher les expressions à partir de fichiers
   texte taggés au format xml, situés dans le répertoire corpus. 
+ 
